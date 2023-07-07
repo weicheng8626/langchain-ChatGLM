@@ -1,0 +1,129 @@
+filepath=/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf,len=128
+page_content='财务报销管理规定           文件密级：内部公开 Copyright © 2016-2025 MegaRobo Technologies Co.' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content=', Ltd.' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content=' All Rights Reserved  ' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content='财务部文件  ' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content='文件编号：Megarobo【CW/20170201】  ' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content='拟文人：张霞  ' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content='拟文部门：财务部  ' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content='审核人：黄瑜清  ' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content='主送：全员  ' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content='版次：第一版  ' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content='总页数：共 8 页  ' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content='财务报销管理规定  ' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content='一、目的  ' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content='为明确费用开支审批手续，' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content='提高工作效率；' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content='  加强公司内部控制，合理降低公司经营成本；' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content='  规范公司的管理，减小公司财务和经营风险；' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content='  二、报销单据的构成及整理方法  1.' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content='完整的报销单是指支出凭单或差旅报销单附带发票。' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content='  2.' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content='差旅费报销单据后附单据只限于填写往来交通费、出差期  间市内车费、订票费、退票费、住宿费、餐补；' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content='出差期间招  待费、购买办公用品等填写支出凭单。' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content='  3.' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content='支出凭单为用于扣除差旅费开支以外的所有支付业务，' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content='包  M    财务报销管理规定           文件密级：内部公开 Copyright © 2016-2025 MegaRobo Technologies Co.' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content=', Ltd.' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content=' All Rights Reserved  括有明确用途和明确金额的预付款项。' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content='  4.' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content=' 经办人应先按报销内容对原始发票进行分类整理，如办公  用品、差旅费、资料费、市内交通费等等，应分类后再按时  间先后粘贴，以便分类汇总数据。' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content='  5.' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content='粘贴票据，' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content='将胶水涂抹于票据左侧背面，' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content='沿粘贴单左上方  从左到右、自上而下错开，' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content='呈鱼鳞状依次均匀粘贴，' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content='保持票  据的左侧及上方不超出粘贴单的边界，' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content='遇单据纸面过大时，' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content='  可在票据粘贴完成后向内折叠，' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content='保证随时可以翻阅。' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content='  6．报销流程：报销人粘贴票据、填写报销单，报销单上须注  明支出事由、项目、发票张数、报销金额和经办人签名。' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content='具  体流程为报销人填写→费用审批签批→报销人将单据交到  财务部→财务会计记账→财务经理复核→出纳付款。' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content='  7．报销完成时限，正常以报销单审核完次日算起五个工作日  内完成。' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content='  三、  报销注意事项  1、报销员工在公司内部的，' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content='需亲笔、正楷、完整填写各种报  销单据，' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content='不得漏项，' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content='（特殊约定应用铅笔做好备注）不得随意  涂改挖补，' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content='特别是报销单上的大小写金额、单据张数不能涂  改，' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content='有涂改应重新填写。' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content='  2、报销金额若涉及到小数点两位数，报销单上直接按四舍五  入保留位数。' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content='  ' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content='3、若实际报销金额小于发票金额的应在发票背面上注明实  ' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content='M    ' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content='财务报销管理规定           ' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content='文件密级：内部公开 Copyright © 2016-2025 MegaRobo Technologies Co.' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content=', Ltd.' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content=' All Rights Reserved  报多少金额，并签字确认，不能把发票上的金额直接划掉后  再写上报销金额，这样会造成发票无效。' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content='  5、为了分清责任，进行部门核算，不同人员支出的业务费用  不得混淆在同一张报销单上。' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content='  6、加强报销管理，当月帐，当月了，费用报销以实际发票日  期为准。' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content='报销时限最长延迟到实际发票日期至次月 25 日，超  过此日期报销的，每天加收报销金额 1%滞纳金。' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content='  7、差旅费用报销，需做到当次发生费用当次报销，过期不再  补充报销前次的费用。' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content='  8、所有费用报销必须提供正式发票，各部门在购买物品或其  他业务发生时应向对方索取发票，发票内容要填写完整，要  素齐全，大小写金额相符，金额不能涂改，并盖有发票专用  章，印章要清晰。' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content='  9、个人借支款项的，' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content='非特殊情况，' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content='须在事毕后 3 天内将报销  单交到财务部办理冲帐手续，' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content='当月无法核销的，' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content='须在月底 25  日前到财务部说明、报备原因，' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content='否则财务部门有权在当月工  资中予以扣除，' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content='借款执行前不清后不借款的原则。' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content='  四、  核准权限  1、  创始人的报销由创始人之间互相审批；' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content='  2、  工资、奖金及特殊费用由总经理审批；' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content='  3、固定资产采购需要总经理审批；' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content='  4、日常报销由有签字权部门经理审批；' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content='  M    财务报销管理规定           文件密级：内部公开 Copyright © 2016-2025 MegaRobo Technologies Co.' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content=', Ltd.' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content=' All Rights Reserved  5、出差飞机需向部门经理提前申请，批准后方可购买乘坐。' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content='  五、 费用报销及借款办理时间  1、   款项借支：借支要提前一天通知，特别是大额款项，其  他突发性事件特别处理。' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content='  2、   费用报销领取时间：每周三、周五下午统一支付报销款  项，同时倒推财务处理时间不短于五个工作日原则。' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content='  3、月末最后两个工作日为财务结账日，不处理相关单据。' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content='  六、  各项费用开支手续及标准  （一）、办公用品、低值易耗品：由办公室统一购买的，办公  室文员根据发票同实物核对无误，办公室文员在采购员费用  报销单签字确认。' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content='  （二）、固定资产：采购人员为设备管理人员或采购员，根据  发票同实物核对无误后，固定资产验收单,方可以办理报销。' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content='  （三）、差旅费：于返回 7 天内报销，' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content='由部门经理审核票据的  合理性（注明出差地点、事由、时间、人数）  1、 差旅费指公司员工因工作需要，' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content='经公司安排，' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content='由工作地前  往目的地出差乘坐各种交通工具产生的交通费、出差期间的  住宿费和出差补贴等。' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content='  2、 按照出差地点的不同，差旅费分为市内交通费（含异地城  市的市内）和异地交通费，外出尽量乘坐公交车，每张发票  背后须有经办人亲笔签名，并写清出差日期、往来路线与说  明。' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content='  M    财务报销管理规定           文件密级：内部公开 Copyright © 2016-2025 MegaRobo Technologies Co.' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content=', Ltd.' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content=' All Rights Reserved  3、坐飞机的有关规定： 公司总经理、部门经理，出差可乘飞机（经济舱）。' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content='一般人员 出差，在特殊情况下需乘飞机，必须提前向部门经理申请， 批准后方可购买乘坐飞机，返回报销后此张相关报销凭证后 面请审批人签字确认。' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content=' 4、   差旅费标准： （1）出差人员的住宿费实行限额内实报实销，' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content='超过限额不予 报销 住宿费报销标准表 职务 一类城市 直 辖 市 各 省 会 城市 其他市级县等 员工 300 250 200 注：一类城市：北京、上海、深圳、广州；' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content=' （2）出差期间餐费实行定额补助，补助金额为每人每日 100 元，超支不补。' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content=' （3）市内交通按实际报销，每张交通费用后写明始发及终点。' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content=' （4）出差乘坐火车、轮船，一般以朝发夕至特快硬卧，动车 二等座，高铁二等座为标准，遇到无法购买相应车票，须经 部门经理针对此项审批方可报销。' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content=' 注：特快或者普快列车乘坐时间超过 6 小时（含 6 小时），' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content='乘 坐方式为硬座或者无座，' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content='可以直接发邮件给财务报销人员，' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content='  M    财务报销管理规定           文件密级：内部公开 Copyright © 2016-2025 MegaRobo Technologies Co.' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content=', Ltd.' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content=' All Rights Reserved  财务报销人员核实后，可以直接在月末工资中增加此人硬座  价位的工资作为补贴，此款财务部核实，无需部门领导审批。' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content='  （5）招待费用执行申请审批制度，一般人员招待需要向部门  经理申请。' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content='  6、   出差补助的计算方法：  （1）出发日补助计算：以有效报销车票或飞机票的准确开车  或起飞时间为准：上午 8：00 前出发的可享受全天补助；' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content='12：  00 前出发的，可享受午餐及晚餐补助。' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content='  （2）到达日补助计算：以有效报销车票或飞机票的准确开车  或起飞时间为准：上午 12：00 后返回的可享受早餐/午餐补  助；' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content='18：00 后返回的可全天补助。' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content='  （3）出差天数的计算方法：按照实有天数报销人员自行填写  到差旅费报销单上。' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content='  7、其他  对因公外出人员均对号入座按标准办理报销费用。' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content='如出差人  员投亲靠友自行解决住宿问题，则发放 100 元奖励，此款核  实权在财务，无需领导审批，员工直接发邮件给财务报销人  员，合并工资月底一起发放。' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content='  （四）、业务招待费用：业务招待费须附有饭店消费明细单，  有同行人须有同行人在报销单上签字确认，并注明时间及招  待客户名称和人数；' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content='赠送礼品的费用须注明所送人名及礼品  名称、数量。' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content='  M    财务报销管理规定           文件密级：内部公开 Copyright © 2016-2025 MegaRobo Technologies Co.' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content=', Ltd.' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content=' All Rights Reserved  （五）、工资/奖金的支出：由公司人事部核准每月考勤，' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content='考 勤日期为上月 26 日到本月 25 日，' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content='财务部编制发放表，' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content='总经 理签字确认，' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content='发放日期为次月 8 日前，' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content='遇节假日顺延。' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content=' （六）、版面费/广告代理费/印刷费（出片费）：由部门凭发 票填写费用报销单，财务部对票据进行核实（附上详细清单）， 核对无误后按报销手续办理。' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content=' （七）、培训/年检费：国家部门（财政、税务、外管、海关 等）强制要求公司人员参加的培训学习和年检费用，经各部 门经理批准后，才能办理报销手续。' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content=' （八）、研发用物料采购，需要提供发票系统打出的物料清单。' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content=' （九）、加班用餐补：加班在晚上 20:30 之后，可以申请 20 元餐费补贴，员工在加班记录表自觉登记，统计时间为每月 26 日到次月 25 日，财务部月底统计与工资一起发放。' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content=' 本制度自发布之日起执行，最终解释权归财务部。' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content='  签发日期：2017 年 2 月 17 日  M北京加班日期  离开时间  加班人签字  备注  1.' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content='此表用于统计员工加班至晚上8:30之后的餐补计算之用  2.' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content='根据公司管理规定，员工加班至晚上8:30之后，需要发放20元餐补  3.' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content='餐补由员工自觉填写，财务部按月统计  4.' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content='统计周期与工资期间相同，每月26日至次月25日  5.' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}
+page_content='发放方式为合并工资一起发放  加班餐补统计确认表' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/content/财务报销制度.pdf'}

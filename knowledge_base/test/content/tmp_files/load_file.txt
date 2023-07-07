@@ -1,0 +1,8 @@
+filepath=/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/test/content/test.pdf,len=7
+page_content='单位介绍：  镁伽是中国领先的机器人与人工智能科技公司，成立于 2016 年，凭借卓越的智能及自动  化科技，赋能行业创新突破和生产力革新，为每个人创建更高效、更健康、更美好的世  界。' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/test/content/test.pdf'}
+page_content='  我们专注于机器人和人工智能技术的研发并将其深度融合于行业应用，' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/test/content/test.pdf'}
+page_content='提供行业领先的生  命科学自动化产品与服务，' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/test/content/test.pdf'}
+page_content='结合自主研发的国内首家通用型智能生物实验室 镁伽鲲鹏实验  室的科研能力，' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/test/content/test.pdf'}
+page_content='赋能新药研发、基因治疗、细胞治疗以及合成生物学等领域的智能自动化  变革。' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/test/content/test.pdf'}
+page_content='  此外，镁伽还是半导体领域智能测试和高端制造装备的创新引领者，拥有众多成熟产品、  解决方案和顶尖客户。' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/test/content/test.pdf'}
+page_content='  镁伽单位地址：  江苏省苏州市苏州工业园区苏州工业园区工业园区东平街 277 号' metadata={'source': '/root/autodl-tmp/ChatGLM/langchain-ChatGLM/knowledge_base/test/content/test.pdf'}
